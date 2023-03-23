@@ -1,4 +1,4 @@
-# aws
+# users-groups-aws
 1-	Create aws account and set billing alarm
 ![Screenshot (604)](https://user-images.githubusercontent.com/93229250/227193777-7ce97857-0c9a-4924-9910-63f66f3c50ef.png)
 
